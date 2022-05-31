@@ -1,8 +1,6 @@
 # Ableton
-Copying site from frontend practice.
-This code written by using:
-Semantic Html5 markup,
-CSS 
-BEM methodology
-Mobile first development
-
+Built with
+Semantic HTML5 markup
+CSS custom properties
+Flexbox
+Mobile-first workflow
